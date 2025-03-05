@@ -80,7 +80,7 @@ export function StartAttempt(): React.JSX.Element {
                 >
                     Stop Quiz
                 </Button>
-                <div>Attemps: {attempts}</div>
+                <div>Attempts: {attempts}</div>
             </div>
         </div>
     );
